@@ -1,5 +1,5 @@
-**/target/
-.idea
+sky-take-out/sky-server/target/
+../.idea
 *.iml
 *.class
 *Test.java
